@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/backend/css/fontawesome.css": "/backend/css/fontawesome.css",
+    "/backend/css/bootstrap.css": "/backend/css/bootstrap.css",
+    "/backend/js/bootstrap.js": "/backend/js/bootstrap.js",
+    "/backend/js/jquery.min.js": "/backend/js/jquery.min.js",
+    "/backend/js/bootstrap.min.js": "/backend/js/bootstrap.min.js"
+}
